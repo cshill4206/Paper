@@ -1,2 +1,6 @@
 just some temporary text 
 Authors: me, you, etc
+
+Abstract: This is the shortest paper ever.
+Intro: The beginning.
+Conclusion: The end.
