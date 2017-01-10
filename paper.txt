@@ -3,4 +3,6 @@ Authors: me, you, etc
 
 Abstract: This is the shortest paper ever.
 Intro: The beginning.
+Body: The middle.
+Figure Caption: A circle.
 Conclusion: The end.
