@@ -1,1 +1,2 @@
 just some temporary text 
+Authors: me, you, etc
