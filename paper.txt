@@ -5,4 +5,5 @@ Abstract: This is the shortest paper ever.
 Intro: The beginning.
 Body: The middle.
 Figure Caption: A circle.
+Figure 2 Caption: A square.
 Conclusion: The end.
